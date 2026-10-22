@@ -19,7 +19,7 @@
     "eslint-config-google": "^0.14.0",
     "eslint-plugin-import": "^2.22.1",
     "jest": "^27.4.7",
-    "postcss": "^8.2.6",
+    "postcss": "^8.5.23",
     "postcss-import": "^14.0.0",
     "rollup": "^2.39.1",
     "rollup-plugin-livereload": "^2.0.0",
